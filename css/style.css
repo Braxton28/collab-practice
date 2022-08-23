@@ -1,35 +1,44 @@
-nav{
+nav {
     background-color: dimgray;
     height: 35px;
-}.row{
+}
+
+.row {
     justify-content: flex-end;
     padding-top: 5px;
     align-items: flex-end;
 }
-footer{
+
+footer {
     background-color: dimgray;
     height: 48px;
     }
-.fa-brands{
+
+.fa-brands {
     font-size: 25px;
     color: black;
     padding-top: 6px;
 }
-.col-6{
+
+.col-6 {
     background-color: rgb(54, 53, 53);
     color: aliceblue;
     height: 200px;
 }
-.col{
+
+.col {
     background-color: rgb(195, 195, 196);
     height: 200px;
 }
-.text{
+
+.text {
     padding-top: 45px;
 }
-.container{
+
+.container {
     margin-bottom: 5px;
 }
-.col-3{
+
+.col-3 {
     justify-content: flex-end;
 }
